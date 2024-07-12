@@ -62,7 +62,7 @@
 // const rows = [];
 
 // for (let i = 0; i < count; i = i + 1) {
-//   rows.push(character);
+//   ows.push(character.repeat(i));
 // }
 //
 // for (const row of rows) {
