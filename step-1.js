@@ -54,3 +54,5 @@
 // console.log(popped)
 //
 // console.log(rows);
+// let pushed = rows.push("freeCodeCamp");
+// console.log(pushed)
