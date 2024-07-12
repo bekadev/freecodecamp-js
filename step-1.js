@@ -20,7 +20,9 @@
 // let character = 'Hello';
 // character = "Hello";
 
-let profession = "teacher";
-let age;
-console.log(profession)
-console.log(age)
+// let profession = "teacher";
+// let age;
+// console.log(profession)
+// console.log(age)
+//
+// let count = 8
