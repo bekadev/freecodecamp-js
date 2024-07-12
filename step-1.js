@@ -10,9 +10,12 @@
 // character = "World";
 // console.log(character);
 
-let character = 'Hello';
-console.log(character);
-character = "World";
-console.log(character);
-let secondCharacter = 1;
-console.log(secondCharacter);
+// let character = 'Hello';
+// console.log(character);
+// character = "World";
+// console.log(character);
+// let secondCharacter = 1;
+// console.log(secondCharacter);
+
+// let character = 'Hello';
+// character = "Hello";
