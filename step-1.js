@@ -26,3 +26,4 @@
 // console.log(age)
 //
 // let count = 8
+// console.log(count + 1)
