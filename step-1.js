@@ -31,4 +31,4 @@
 // console.log(count * 1);
 // console.log(count / 1);
 
-// let rows = [];
+// let rows = ["Naomi", "Quincy", "CamperChan"];
