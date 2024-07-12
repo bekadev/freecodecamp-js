@@ -56,3 +56,7 @@
 // console.log(rows);
 // let pushed = rows.push("freeCodeCamp");
 // console.log(pushed)
+
+// const character = "Hello";
+// const count = 8;
+// const rows = [];
