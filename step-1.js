@@ -103,12 +103,12 @@
 //
 // console.log(result);
 
-const test = 10;
-let test1 = 10
-
-console.log(test === test1)
-function f(a, b) {
-  return (a + b) === test
-}
-
-console.log(f(1, 2));
+// const test = 10;
+// let test1 = 10
+//
+// console.log(test === test1)
+// function f(a, b) {
+//   return (a + b) === test
+// }
+//
+// console.log(f(1, 2));
