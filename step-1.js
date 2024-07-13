@@ -104,3 +104,6 @@
 // console.log(result);
 
 const test = 10;
+let test1 = 10
+
+console.log(test === test1)
