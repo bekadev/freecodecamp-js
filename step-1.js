@@ -112,3 +112,9 @@
 // }
 //
 // console.log(f(1, 2));
+
+const asyncFunction = async () => {
+  return new Promise(resolve => setTimeout(resolve, 1000));
+}
+
+console.log(asyncFunction())
