@@ -102,3 +102,5 @@
 // }
 //
 // console.log(result);
+
+const test = 10;
