@@ -144,7 +144,9 @@
 //   for (const item of list) {
 //     const currVal = cleanInputString(item.value);
 //     const invalidInputMatch = isInvalidInput(currVal);
-//
+//     if (invalidInputMatch) {
+//       continue; // Skip this iteration if the input is invalid
+//     }
 //
 //   }
 // }
