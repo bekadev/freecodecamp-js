@@ -145,6 +145,8 @@
 //     const currVal = cleanInputString(item.value);
 //     const invalidInputMatch = isInvalidInput(currVal);
 //     if (invalidInputMatch) {
+// alert(`Invalid Input: ${invalidInputMatch[0]}`);
+
 //       continue; // Skip this iteration if the input is invalid
 //     }
 //
