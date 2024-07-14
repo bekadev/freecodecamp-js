@@ -123,3 +123,17 @@
 //   <legend>Breakfast</legend>
 //   <div className="input-container"></div>
 // </fieldset>
+
+// <div className="controls">
+//             <span>
+//               <label htmlFor="entry-dropdown">Add food or exercise:</label>
+//               <select id="entry-dropdown" name="options">
+//                 <option value="breakfast" selected>Breakfast</option>
+//                 <option value="lunch">Lunch</option>
+//                 <option value="dinner">Dinner</option>
+//                 <option value="snacks">Snacks</option>
+//                 <option value="exercise">Exercise</option>
+//               </select>
+//               <button type="button" id="add-entry">Add Entry</button>
+//             </span>
+// </div>
